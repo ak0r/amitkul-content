@@ -32,16 +32,15 @@ The Garden of Caves, or Ka Bri Synrang as it is known in the Khasi language, was
 ![Garden of Caves](posts/2022-09-12-experiencing-meghalaya-sohra/attachments/Web-_AKM6572-001.jpg)
 ![Garden of Caves](posts/2022-09-12-experiencing-meghalaya-sohra/attachments/Web-_AKM6474-001.jpg)
 
-
 **Caves of Meghalaya**
 
 We couldn't find a good hotel with Khasi food in the area, so we had to settle for Bengali food because we were eager to get to our next stop. Meghalaya's well-known caves at Arwah. Meghalaya is also home to some longest and deepest caves in India. Most of the caves are of limestone with almost no natural light inside them. We felt like we had visited the "Dwarf Kingdom under the mountains" when we stepped inside Arwah cave. The cave's layout is a confusing maze; one moment you'll be walking beneath a high cave ceiling, and the next you'll be squeezing through a tight path that leads to other areas. Most of the cave is off-limits to visitors, but after walking through it for half an hour, you'll have a good sense of its depth and length.
 
 Another cave near Cherrapunjee that is easy to explore is Mawsmai cave. The cave is also known for its fossils, which you can see if you look closely at the formations and walls.
 
-![Caves of Meghalaya](posts/2022-09-12-experiencing-meghalaya-sohra/attachments/Meghalaya-20211207.jpg)
-![Caves of Meghalaya](posts/2022-09-12-experiencing-meghalaya-sohra/attachments/Meghalaya-20211207.jpg)
-![Caves of Meghalaya](posts/2022-09-12-experiencing-meghalaya-sohra/attachments/Meghalaya-20211207.jpg)
+![Caves of Meghalaya](posts/2022-09-12-experiencing-meghalaya-sohra/attachments/Meghalaya-20211207-004.jpg)
+![Caves of Meghalaya](posts/2022-09-12-experiencing-meghalaya-sohra/attachments/Meghalaya-20211207-002.jpg)
+![Caves of Meghalaya](posts/2022-09-12-experiencing-meghalaya-sohra/attachments/Meghalaya-20211207-003.jpg)
 
 **More Waterfalls**
 
