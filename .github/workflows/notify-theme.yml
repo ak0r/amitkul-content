@@ -3,6 +3,11 @@ name: Notify Theme Repo
 on:
   push:
     branches: [main]
+    paths:
+      - "**/*.md"
+      - "**/*.mdx"
+      - "!README.md"
+  workflow_dispatch:
 
 jobs:
   dispatch:
@@ -11,5 +16,10 @@ jobs:
       - uses: peter-evans/repository-dispatch@v3
         with:
           token: ${{ secrets.THEME_REPO_TOKEN }}
-          repository: ak0r/zero-theme
+          repository: ak0r/amitkul.in
           event-type: content-updated
+          client-payload: |
+            {
+              "ref": "${{ github.ref }}",
+              "sha": "${{ github.sha }}"
+            }
