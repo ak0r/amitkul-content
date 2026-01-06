@@ -17,23 +17,10 @@
       "name": "Posts",
       "folder": "posts",
       "linkBasePath": "/posts/",
-      "template": "---\ntitle: \"{{title}}\"\ndescription: \"\"\ndate: {{date}}\ntags: []\nimage: \"\"\nimageAlt: \"\"\ndraft: true\nfeatured: false\n---",
+      "template": "---\ntitle: \"{{title}}\"\nslug: \"\"\ndescription: \"\"\ncategory: \"\"\ndate: {{date}}\ntags: []\ncover: \"\"\ncoverAlt: \"\"\ndraft: true\n---",
       "enabled": true,
       "creationMode": "folder",
       "indexFileName": "index",
-      "ignoreSubfolders": false,
-      "enableUnderscorePrefix": false,
-      "collapsed": false
-    },
-    {
-      "id": "content-1766404141710",
-      "name": "Projects",
-      "folder": "projects",
-      "linkBasePath": "/projects/",
-      "template": "---\ntitle: \"{{title}}\"\ndescription: \"{{description}}\"\ndate: {{date}}\nprojectUrl: \"{{projectUrl}}\"\nrepositoryUrl: \"{{repositoryUrl}}\"\ntags: [{{tags}}]\nstatus: \"active\"\nfeatured: false\n---",
-      "enabled": true,
-      "creationMode": "file",
-      "indexFileName": "",
       "ignoreSubfolders": false,
       "enableUnderscorePrefix": false,
       "collapsed": true
@@ -43,7 +30,7 @@
       "name": "Pages",
       "folder": "pages",
       "linkBasePath": "/pages/",
-      "template": "---\ntitle: \"{{title}}\"\ndescription: \"\"\ndraft: true\n---",
+      "template": "---\ntitle: \"{{title}}\"\ndescription: \"\"\nlastUpdated: \"\"\ncover: \"\"\ndraft: true\n---",
       "enabled": true,
       "creationMode": "file",
       "indexFileName": "",
@@ -52,14 +39,14 @@
       "collapsed": true
     },
     {
-      "id": "content-1766404218131",
-      "name": "Docs",
-      "folder": "docs",
-      "linkBasePath": "/docs/",
-      "template": "--\ntitle: \"{{title}}\"\ndescription: \"\"\ndate: {{date}}\nlastModified: {{date}}\ncategory: \"General\"\ntags: []\nseries: \"\"\nseriesOrder: 0\nversion: \"\"\nimage: \"\"\nimageAlt: \"\"\ndraft: true\nfeatured: false\n---",
+      "id": "content-1766404141710",
+      "name": "Projects",
+      "folder": "projects",
+      "linkBasePath": "/projects/",
+      "template": "---\ntitle: \"{{title}}\"\ndescription: \"{{description}}\"\ndate: {{date}}\nprojectUrl: \"{{projectUrl}}\"\nrepositoryUrl: \"{{repositoryUrl}}\"\ntags: [{{tags}}]\nstatus: \"active\"\n---",
       "enabled": true,
-      "creationMode": "folder",
-      "indexFileName": "index",
+      "creationMode": "file",
+      "indexFileName": "",
       "ignoreSubfolders": false,
       "enableUnderscorePrefix": false,
       "collapsed": true
@@ -69,12 +56,13 @@
       "name": "Gallery",
       "folder": "gallery",
       "linkBasePath": "/gallery/",
-      "template": "---\ntitle: \"{{title}}\"\ndescription: \"\"\ndate: {{date}}\ntags: []\ncoverImage: \"\"\ndraft: true\nfeatured: false\n---",
+      "template": "---\ntitle: \"{{title}}\"\nslug: \"\"\ndescription: \"\"\ndate: {{date}}\nimageDir: \"\"\ntags: []\ncover: \"\"\ncoverAlt: \"\"\nlocation: \"\"\ndraft: true\n---",
       "enabled": true,
       "creationMode": "folder",
       "indexFileName": "",
       "ignoreSubfolders": false,
-      "enableUnderscorePrefix": false
+      "enableUnderscorePrefix": false,
+      "collapsed": true
     }
   ],
   "migrationCompleted": true,
@@ -82,5 +70,6 @@
     "enabled": false,
     "commandId": "edit-astro-config",
     "iconId": "wrench"
-  }
+  },
+  "showMdxFilesInExplorer": false
 }

@@ -6,10 +6,11 @@ date: 2018-06-19
 tags:
   - photowalk
   - pune
-image: "[[posts/2018-06-19-photowalk-pune-market/attachments/Mandai8-square.jpg]]"
-imageAlt: ""
+cover: "[[posts/2018-06-19-photowalk-pune-market/attachments/Mandai8-square.jpg]]"
+coverAlt: ""
 draft: false
 featured: false
+category: travel
 ---
 It has been long that I have gone out there and strolled in one of the favourite photography destinations of Pune, Mandai. I was in dual mind whether to carry my DSLR or to just go out there and make the maximum use of my phone, which gives a range of colours and works brilliantly in low light. Yes, I went out there taking my mobile phone only!
 

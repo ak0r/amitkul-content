@@ -7,10 +7,11 @@ tags:
   - hiking
   - konkan
   - maharashtra
-image: "[[posts/2014-03-24-bharatgad-devgad/attachments/kokan-part3-devgad.jpg]]"
-imageAlt: ""
+cover: "[[posts/2014-03-24-bharatgad-devgad/attachments/kokan-part3-devgad.jpg]]"
+coverAlt: ""
 draft: false
 featured: false
+category: travel
 ---
 सह्याद्रीच्या अंगा-खांद्यावर खेळलेल्या जातिवंत भटक्यांना डोंगर चढ-उतर केल्याशिवाय ट्रेकिंग ची मजाच येत नाही. आमचेसुद्धा तसेच झाले होते. कोकणाच्या दुर्गयात्रेसाठी आलो असलो तरी जवळपासचे डोंगरी किल्लेसुद्धा साद घालत होते. म्हणूनच आमच्या या दुर्गयात्रेमध्ये दोन डोंगरी किल्ले जोडले. भरतगड आणि भगवंतगड. मालवण पासून फक्त १६ किमी अंतरावर असलेली ही दुर्गजोडी पाहणे म्हणजे भटक्यांना एक पर्वणीच ठरते.
 

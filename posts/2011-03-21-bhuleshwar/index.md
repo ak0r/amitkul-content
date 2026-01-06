@@ -7,10 +7,11 @@ tags:
   - maharashtra
   - photowalk
   - sahyadri
-image: "[[posts/2011-03-21-bhuleshwar/attachments/focused-e1300735648212.jpg]]"
-imageAlt: ""
+cover: "[[posts/2011-03-21-bhuleshwar/attachments/focused-e1300735648212.jpg]]"
+coverAlt: ""
 draft: false
 featured: false
+category: travel
 ---
 पुण्याच्या आसपास भटकंती करण्यास प्रचंड वाव आहे. कधी सह्याद्रीच्या अंगा-खांद्यावर चढायचे तर कधी धरणाच्या जलाशयापाशी पक्षी निरीक्षण करायचे. तर कधीपुरातन मंदिरे बघत फिरायचे. असेच एक पुरातन मंदिर पुण्याच्या अगदी जवळ आहे. भुलेश्वर. पुणे-सोलापूर रोडला लागुनच. पुणेकरांना थोडेसे अपरिचित असे हे ठिकाण.
 

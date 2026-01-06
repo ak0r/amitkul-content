@@ -5,10 +5,11 @@ description: ""
 date: 2022-09-06
 tags:
   - meghalaya
-image: "[[posts/2022-09-06-experiencing-meghalaya-p1/attachments/Meghalaya-2.jpg]]"
-imageAlt: ""
+cover: "[[posts/2022-09-06-experiencing-meghalaya-p1/attachments/Meghalaya-2.jpg]]"
+coverAlt: ""
 draft: false
 featured: false
+category: travel
 ---
 Meghalaya's stunning natural scenery hardly requires an introduction. Meghalaya, which translates to "abode of clouds" in Sanskrit, is exactly what its name implies. Throughout your travels in this state from the northeast region, you'll be treated to some of the most stunning landscapes, including pristine waterfalls, meandering roads, living root bridges, and the cleanest village in all of Asia. A beautiful waterfall plunging fiercely from sheer cliffs will make your heart skip a beat, and the waters of a pristine river will make time stand still.
 

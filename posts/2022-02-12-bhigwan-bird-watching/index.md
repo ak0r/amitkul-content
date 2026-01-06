@@ -7,10 +7,11 @@ tags:
   - around-pune
   - maharashtra
   - pune
-image: "[[posts/2022-02-12-bhigwan-bird-watching/attachments/Web_untitled-29.jpg]]"
-imageAlt: ""
+cover: "[[posts/2022-02-12-bhigwan-bird-watching/attachments/Web_untitled-29.jpg]]"
+coverAlt: ""
 draft: false
 featured: false
+category: travel
 ---
 Bhigwan is a small town on the banks of Ujani lake, approx 100 km from Pune. The nearby villages mainly Kumbhargaon, Diksal host various beautiful migratory birds.
 

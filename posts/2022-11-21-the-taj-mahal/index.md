@@ -5,10 +5,11 @@ description: ""
 date: 2022-11-21
 tags:
   - uttarpradesh
-image: "[[posts/2022-11-21-the-taj-mahal/attachments/Taj-Mahal-14.jpg]]"
-imageAlt:
+cover: "[[posts/2022-11-21-the-taj-mahal/attachments/Taj-Mahal-14.jpg]]"
+coverAlt:
 draft: false
 featured: false
+category: travel
 ---
 India is a home of many wonders natural and man-made, and one of the most iconic and awe-inspiring landmarks in the country is the Taj Mahal. This beautiful mausoleum is a symbol of love and devotion, and it's a must-see destination for anyone visiting India.
 

@@ -7,10 +7,11 @@ tags:
   - hiking
   - maharashtra
   - sahyadri
-image: "[[posts/2013-07-11-palpeshwar/attachments/palpeshwar_cave.jpg]]"
-imageAlt: ""
+cover: "[[posts/2013-07-11-palpeshwar/attachments/palpeshwar_cave.jpg]]"
+coverAlt: ""
 draft: false
 featured: false
+category: travel
 ---
 वाई. पश्चिम महाराष्ट्रातील एक इतिहासप्रसिद्ध गाव. कृष्णातीरावरचे एक टुमदार शहर. खूप पूर्वीपासून या गावाला महत्व आहे. आणि माझे बालपण येथे गेल्याने माझ्या दृष्टीने फारच. वाईला जसा कलेचा, इतिहासाचा ठेवा लाभला आहे तसाच निसर्गसौंदर्याचा ठेवा सुद्धा भरपूर आहे. परिसरात अनेक किल्ले, धरणे, आणि लेणी आहेत. त्यातीलच एक पालपेश्वर.
 

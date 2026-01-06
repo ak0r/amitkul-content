@@ -7,10 +7,11 @@ tags:
   - hiking
   - maharashtra
   - sahyadri
-image: ""
-imageAlt: ""
+cover: ""
+coverAlt: ""
 draft: false
 featured: false
+category: travel
 ---
 **पूर्वरंग:** नुकतीच [एक भटकंती](http://amitkul.in/blog "माझ्या भटकंती") पार पडलेली असते. फोटोग्राफर मंडळींनी [फेसबुकवर](http://www.facebook.com/AmitSK.Photography "My FB Page") आपापले रंग दाखवलेले असतात तर काही (अति-) उत्साही मंडळी (माझ्यासारखी) भटकंतीच्या आठवणी लिखाणात उतरवण्याचे काम करीत असतात आणि त्यातच दुसऱ्याच दिवशी.... [![how-we-plan-treks-02](posts/2012-07-11-how-we-plan-trek/attachments/how-we-plan-treks-02.jpg)](posts/2012-07-11-how-we-plan-trek/attachments/how-we-plan-treks-02.jpg)
 

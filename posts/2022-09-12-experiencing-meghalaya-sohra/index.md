@@ -5,10 +5,11 @@ description: ""
 date: 2022-09-12
 tags:
   - meghalaya
-image: "[[posts/2022-09-12-experiencing-meghalaya-sohra/attachments/Meghalaya-20211207-005.jpg]]"
-imageAlt: ""
+cover: "[[posts/2022-09-12-experiencing-meghalaya-sohra/attachments/Meghalaya-20211207-005.jpg]]"
+coverAlt: ""
 draft: false
 featured: false
+category: travel
 ---
 The first time I heard of Cherrapunjee was in school when I learned that it is the location with the most rainfall in the world. Evidently, I was pleased to learn that India was home to such a location. And ever since, I've wanted to go to the "wettest location in the world." Among the various attractions in Cherrapunjee (sometimes referred to as Sohra), the waterfalls nearby have long been my favourites. Eventually, the nearby city of Mawsynram surpassed Cherrapunjee as the world's wettest location.
 

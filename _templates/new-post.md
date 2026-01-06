@@ -1,10 +1,12 @@
 ---
-title: {{title}}
+title:
+  "{ title }":
 description: ""
-date: {{date}}
+date:
+  "{ date }":
 tags: []
-image: ""
-imageAlt: ""
+cover: ""
+coverAlt: ""
 draft: false
 featured: false
 ---

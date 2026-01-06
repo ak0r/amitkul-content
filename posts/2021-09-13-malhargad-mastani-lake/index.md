@@ -6,10 +6,11 @@ date: 2021-09-13
 tags:
   - around-pune
   - maharashtra
-image: "[[posts/2021-09-13-malhargad-mastani-lake/attachments/WebMalhargad-008.jpg]]"
-imageAlt: ""
+cover: "[[posts/2021-09-13-malhargad-mastani-lake/attachments/WebMalhargad-008.jpg]]"
+coverAlt: ""
 draft: false
 featured: false
+category: travel
 ---
 Recently I happened to travel with creative blogger friend Siddhartha for a day and we visited some places around Pune. Here are some of the clicks from the trip showcasing Malhargad and Mastani Lake.
 

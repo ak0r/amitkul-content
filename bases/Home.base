@@ -25,10 +25,11 @@ formulas:
               "/" + file.folder)))))
 views:
   - type: bases-cms
-    name: Posts
+    name: Travel Posts
     filters:
       and:
         - file.folder.startsWith("posts")
+        - category == "travel"
     order:
       - file.name
       - formula.Content Folder
@@ -58,7 +59,7 @@ views:
         - file.inFolder("projects")
     image: note.image
   - type: bases-cms
-    name: Docs
+    name: Tech Posts
     filters:
       and:
         - file.folder.startsWith("docs")

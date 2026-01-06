@@ -7,10 +7,11 @@ tags:
   - festivals
   - karnataka
   - mangalore
-image: "[[posts/2018-03-26-mangaluru-kambala-2018/attachments/Kambala-750-8.jpg]]"
-imageAlt: ""
+cover: "[[posts/2018-03-26-mangaluru-kambala-2018/attachments/Kambala-750-8.jpg]]"
+coverAlt: ""
 draft: false
 featured: false
+category: travel
 ---
 There is always a desire in me to reach the core areas of countries. Exploring particular places of the countries where the culture, the struggle, and the living is harsh, truthful and courageous.
 

@@ -1,14 +1,15 @@
 ---
-title: "एका पॅसेंजरचा प्रवास"
+title: एका पॅसेंजरचा प्रवास
 slug: travel-of-passenger
 description: ""
 date: 2011-03-01
 tags:
   - thoughts
-image: ""
-imageAlt: ""
+cover: ""
+coverAlt: ""
 draft: false
 featured: false
+category: travel
 ---
 > झुक झुक झुक झुक अगीन-गाडी, धुरांच्या रेषा हवेत काढी, पळती झाडे पाहूया... मामाच्या गावाला जाऊया...
 

@@ -6,10 +6,11 @@ date: 2013-06-04
 tags:
   - photowalk
   - thoughts
-image: "[[posts/2013-06-04-waiting-for-monsoon/attachments/Monsoon-2.jpg]]"
-imageAlt: ""
+cover: "[[posts/2013-06-04-waiting-for-monsoon/attachments/Monsoon-2.jpg]]"
+coverAlt: ""
 draft: false
 featured: false
+category: travel
 ---
 तुला सांगितलं होतं वेळेवर यायला...  
 तुला सांगितला होतं.मुसळधार पडायला...  

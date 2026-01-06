@@ -7,10 +7,11 @@ tags:
   - chittorgarh
   - rajasthan
   - udaipur
-image: "[[posts/2022-07-12-chittorgarh-rajasthan/attachments/Chittorgarh-001.jpg]]"
-imageAlt: ""
+cover: "[[posts/2022-07-12-chittorgarh-rajasthan/attachments/Chittorgarh-001.jpg]]"
+coverAlt: ""
 draft: false
 featured: false
+category: travel
 ---
 Since my school days, I have always loved history. I always try to find historical references to any place I am travelling. And as an avid history lover, I admire not just Chhatrapati Shivaji Maharaj but kings and leaders from other parts of India as well. Maharana Pratap is one such leader and it was my dream to visit the forts and palaces of his Mewar region.
 

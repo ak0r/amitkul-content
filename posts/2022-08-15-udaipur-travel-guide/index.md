@@ -6,10 +6,11 @@ date: 2022-08-15
 tags:
   - rajasthan
   - udaipur
-image: "[[posts/2022-08-15-udaipur-travel-guide/attachments/Web_AKM2155-Edit.jpg]]"
-imageAlt: ""
+cover: "[[posts/2022-08-15-udaipur-travel-guide/attachments/Web_AKM2155-Edit.jpg]]"
+coverAlt: ""
 draft: false
 featured: false
+category: travel
 ---
 If anyone asks me what’s my favourite city in India then the answer would be the city of lakes - [Udaipur](https://amitkul.in/tag/udaipur/). It's one of the most beautiful cities in [Rajasthan](https://amitkul.in/tag/rajasthan/), spread across seven lakes and surrounded by the green, hilly Aravali Range. It also has a slew of nicknames like White City of India or India's most romantic city. Some also call it the Venice of the East, while others refer to it as the City of Lakes. And this could be just the shortest travel blog by me. This city quickly climbed up to the top on the list of favourite places on the very first day of our visit here. It’s that beautiful. I've created this travel guide to share everything you need to know about visiting Udaipur.
 

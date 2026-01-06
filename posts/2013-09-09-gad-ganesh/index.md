@@ -7,10 +7,11 @@ tags:
   - hiking
   - maharashtra
   - sahyadri
-image: "[[posts/2013-09-09-gad-ganesh/attachments/Ganesh-Harish-Pushkarani.jpg]]"
-imageAlt: ""
+cover: "[[posts/2013-09-09-gad-ganesh/attachments/Ganesh-Harish-Pushkarani.jpg]]"
+coverAlt: ""
 draft: false
 featured: false
+category: travel
 ---
 सह्याद्रीची भटकंती करत असताना कुठल्याही गड किल्ल्यावर २ देव हमखास आढळून येतात. हनुमान आणि गणपती… आज गणेश चतुर्थीच्या निमित्त काही आडबाजूच्या थोड्याशा दुर्लक्षित पण तरीसुद्धा शेकडो वर्षापासून टिकून असलेल्या गड किल्यावरच्या ११ गणेश मूर्तीं बद्दलची ही माहिती... 
 

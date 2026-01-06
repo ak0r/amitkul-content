@@ -6,10 +6,11 @@ date: 2021-09-29
 tags:
   - around-pune
   - maharashtra
-image: "[[posts/2021-09-29-around-pune-bedse-caves/attachments/Bedse-IG-10-1.jpg]]"
-imageAlt: ""
+cover: "[[posts/2021-09-29-around-pune-bedse-caves/attachments/Bedse-IG-10-1.jpg]]"
+coverAlt: ""
 draft: false
 featured: false
+category: travel
 ---
 Bedse Caves (also known as Bedsa Caves) are a group of Buddhist rock-cut monuments situated near Lonavla, Pune. The history of the caves can be traced back to the Satavahana period in the 1st century BCE.
 

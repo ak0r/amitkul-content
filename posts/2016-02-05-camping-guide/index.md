@@ -6,10 +6,11 @@ date: 2016-02-05
 tags:
   - around-pune
   - maharashtra
-image: "[[posts/2016-02-05-camping-guide/attachments/Websize-Saltar-Camp.jpg]]"
-imageAlt: ""
+cover: "[[posts/2016-02-05-camping-guide/attachments/Websize-Saltar-Camp.jpg]]"
+coverAlt: ""
 draft: false
 featured: false
+category: travel
 ---
 सध्या सोशल नेटवर्कींग साईटसमुळे भटकंतीच प्रचंड आकर्षण निर्माण झालंय. गड किल्ले, जंगल सफारी, ऐतिहासिक ठिकाणे अजून काय काय. यातच एक भर पडत आहे ती कॅम्पिंगची... शहराच्या गोंगाटापासून लांबवर एखादी रात्र मित्रांसमवेत किंवा कुटुंबासमवेत तंबू ठोकून घालवायला कोणाला नाही आवडणार??
 
