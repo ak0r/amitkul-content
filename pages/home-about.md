@@ -1,5 +1,5 @@
 ---
-title:
+title: ""
 description: ""
 lastUpdated: ""
 cover: "[[pages/attachments/me-wide.jpg]]"
