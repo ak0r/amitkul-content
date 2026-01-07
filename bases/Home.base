@@ -107,6 +107,10 @@ views:
     filters:
       and:
         - file.folder == "pages"
+    titleProperty: note.title
+    imageProperty: note.cover
+    showDraftStatus: true
+    draftStatusProperty: note.draft
   - type: bases-cms
     name: All Posts
     filters:
