@@ -1,5 +1,5 @@
 ---
-title: home-cta
+title:
 description: ""
 lastUpdated: ""
 cover: ""

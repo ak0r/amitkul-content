@@ -4,6 +4,6 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "date": "date",
-    "lastUpdated": "text"
+    "lastUpdated": "date"
   }
 }
