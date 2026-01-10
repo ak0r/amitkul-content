@@ -1,20 +1,18 @@
 ---
 title: Around Pune - Temples of Saswad
 slug: temples-of-saswad
-description: ""
+description: "A day trip to Saswaad"
 date: 2021-09-17
 tags:
   - around-pune
   - maharashtra
 cover: "[[posts/2021-09-17-temples-of-saswad/attachments/WebSaswad-Nikon-054.jpg]]"
 coverAlt: ""
-draft: false
-featured: false
-category: travel
+category: gallery
 ---
 This is another set of images clicked during a day trip to Saswad with photographer and blogger friend [Siddhartha](https://www.sid-thewanderer.com/).
 
-> All images are clicked with mobile.
+> [!info] All images are clicked with mobile.
 
 ## **Sangameshwar**
 

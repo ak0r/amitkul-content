@@ -10,3 +10,4 @@ tags:
 cover: "[[posts/2021-09-22-walk-in-mandai/attachments/Web-Mandai-20210822-10.jpg]]"
 imageDir: "./attachments"
 ---
+> [!info] All images are clicked with mobile.

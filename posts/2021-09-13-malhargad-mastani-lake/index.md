@@ -1,21 +1,19 @@
 ---
 title: Around Pune - Malhargad and Mastani Lake
 slug: malhargad-mastani-lake
-description: ""
+description: Photos from a quick visit to Malhargad Fort and Mastani Lake
 date: 2021-09-13
 tags:
   - around-pune
   - maharashtra
 cover: "[[posts/2021-09-13-malhargad-mastani-lake/attachments/WebMalhargad-008.jpg]]"
 coverAlt: ""
-draft: false
-featured: false
-category: travel
+category: gallery
 ---
 Recently I happened to travel with creative blogger friend Siddhartha for a day and we visited some places around Pune. Here are some of the clicks from the trip showcasing Malhargad and Mastani Lake.
 
 
-> All photos are clicked with mobile.
+> [!info] All photos are clicked with mobile.
 
 ## Malhargad Fort
 
