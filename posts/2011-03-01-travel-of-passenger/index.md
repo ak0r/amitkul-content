@@ -7,7 +7,7 @@ tags:
   - thoughts
 cover: ""
 coverAlt: ""
-category: tech
+category: travel
 ---
 > झुक झुक झुक झुक अगीन-गाडी, धुरांच्या रेषा हवेत काढी, पळती झाडे पाहूया... मामाच्या गावाला जाऊया...
 

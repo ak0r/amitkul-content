@@ -84,7 +84,7 @@ views:
     name: Gallery
     filters:
       and:
-        - file.folder.startsWith("gallery")
+        - file.folder.startsWith("posts")
     titleProperty: note.title
     descriptionProperty: note.description
     imageFormat: cover
