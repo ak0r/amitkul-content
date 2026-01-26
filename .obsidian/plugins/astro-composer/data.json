@@ -7,6 +7,8 @@
   "addTrailingSlashToLinks": false,
   "enableOpenTerminalCommand": true,
   "terminalProjectRootPath": "../..",
+  "terminalApplicationName": "",
+  "enableTerminalDebugLogging": false,
   "enableTerminalRibbonIcon": true,
   "enableOpenConfigFileCommand": true,
   "configFilePath": "../site.config.ts",
@@ -36,7 +38,7 @@
       "indexFileName": "",
       "ignoreSubfolders": false,
       "enableUnderscorePrefix": false,
-      "collapsed": false
+      "collapsed": true
     },
     {
       "id": "content-1766404141710",
@@ -49,7 +51,7 @@
       "indexFileName": "",
       "ignoreSubfolders": false,
       "enableUnderscorePrefix": false,
-      "collapsed": false
+      "collapsed": true
     },
     {
       "id": "content-1766568618579",
@@ -62,7 +64,7 @@
       "indexFileName": "",
       "ignoreSubfolders": false,
       "enableUnderscorePrefix": false,
-      "collapsed": false
+      "collapsed": true
     }
   ],
   "migrationCompleted": true,
@@ -71,5 +73,6 @@
     "commandId": "edit-astro-config",
     "iconId": "wrench"
   },
-  "showMdxFilesInExplorer": false
+  "showMdxFilesInExplorer": false,
+  "processBackgroundFileChanges": true
 }
