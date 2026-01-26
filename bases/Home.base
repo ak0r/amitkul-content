@@ -66,7 +66,7 @@ views:
       - property: date
         direction: DESC
     titleProperty: note.title
-    imageProperty: note.image
+    imageProperty: note.cover
     dateProperty: note.date
     showDate: true
     showDraftStatus: true
