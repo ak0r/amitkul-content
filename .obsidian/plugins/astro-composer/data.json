@@ -38,7 +38,7 @@
       "indexFileName": "",
       "ignoreSubfolders": false,
       "enableUnderscorePrefix": false,
-      "collapsed": true
+      "collapsed": false
     },
     {
       "id": "content-1766404141710",
@@ -51,7 +51,7 @@
       "indexFileName": "",
       "ignoreSubfolders": false,
       "enableUnderscorePrefix": false,
-      "collapsed": true
+      "collapsed": false
     },
     {
       "id": "content-1766568618579",
@@ -64,7 +64,7 @@
       "indexFileName": "",
       "ignoreSubfolders": false,
       "enableUnderscorePrefix": false,
-      "collapsed": true
+      "collapsed": false
     }
   ],
   "migrationCompleted": true,

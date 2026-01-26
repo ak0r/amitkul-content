@@ -21,6 +21,9 @@ This data isn't just sitting there. It's analysed, packaged, sold. Your browsing
 
 Data is the new gold. Companies built billion-dollar businesses on it. And we handed it over because the services were "free."
 
+> [!info] The Hidden Web
+> Every time you visit a website, dozens of third-party domains load in the background. Google Analytics, Facebook Pixel, advertising networks, data brokers. A single news article might ping 40+ trackers. Most people never see this - it all happens in milliseconds.
+
 ## When I Realized Nothing Is Private
 
 Google announced Gemini integration in Drive. AI that can read your documents, analyse your files, suggest edits. Sounds convenient, right?
@@ -63,9 +66,20 @@ I moved my important files from Google Drive to my own cloud storage.
 
 The next two posts will cover these setups - what worked, what surprised me, and whether it's worth the effort.
 
+> [!example] My Current Stack
+> - **Tailscale** - Mesh VPN connecting all my devices
+> - **AdGuard Home** - DNS-based ad/tracker blocking
+> - **Immich** - Self-hosted Google Photos replacement
+> - **Nextcloud** - Personal cloud storage
+> - **Docker** - Everything runs in containers
+> - **Oracle Cloud** - Free tier VPS for always-on services
+
 ## Should You Try Self-Hosting?
 
 Maybe. If you're curious about how things work. If privacy matters to you. If you're tired of being tracked constantly.
+
+> [!warning] The Reality Check
+> Self-hosting won't give you perfect privacy. You still need internet providers, domain registrars, and some cloud services. But it's a significant step toward controlling your data.
 
 You don't need to go all-in. Pick one thing that bothers you most. Maybe it's ads. Maybe it's photo privacy. Start there.
 
