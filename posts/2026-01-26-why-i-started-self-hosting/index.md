@@ -1,13 +1,13 @@
 ---
 title: Why I Started Self-Hosting (And You Might Want To)
 slug: why-i-started-self-hosting
-description: ""
+description: I got tired of being the product. This is why I started self-hosting my own infrastructure and whether it's worth the effort.
 category: tech
 date: 2026-01-26
 tags:
   - self-hosting
   - privacy
-cover: "[[posts/2026-01-26-why-i-started-self-hosting/cover.png]]"
+cover: "[[homelab.png]]"
 coverAlt: ""
 draft: true
 ---

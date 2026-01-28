@@ -19,7 +19,7 @@
       "name": "Posts",
       "folder": "posts",
       "linkBasePath": "/posts/",
-      "template": "---\ntitle: \"{{title}}\"\nslug: \"\"\ndescription: \"\"\ncategory: \"\"\ndate: {{date}}\ntags: []\ncover: \"\"\ncoverAlt: \"\"\ndraft: true\n---",
+      "template": "---\ntitle: \"{{title}}\"\nslug: \"\"\ndescription: \"\"\ncategory: \"\"\ndate: {{date}}\ntags: []\ncover: \"\"\ndraft: true\n---",
       "enabled": true,
       "creationMode": "folder",
       "indexFileName": "index",
