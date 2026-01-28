@@ -1,6 +1,5 @@
 ---
 title: Setting Up a Private Network That Blocks Ads
-slug: private-vpn-with-adblock
 description: How I built a mesh VPN with DNS-level ad blocking that stops 25,000+ trackers daily. Tailscale + AdGuard Home on a free Oracle VPS.
 category: tech
 date: 2026-02-02
