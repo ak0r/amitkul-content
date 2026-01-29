@@ -1,12 +1,19 @@
-# Obsidian workspace (personal settings)
-
-.obsidian/
-.obsidian/*
+# Obsidian workspace (device-specific)
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
-.obsidian/graph.json
+.obsidian/workspace
 .obsidian/cache/
+
+# Syncthing
+.stfolder
+.stignore
+.stversions/
 
 # System files
 .DS_Store
 Thumbs.db
+
+# Backup files
+*.bak
+*.swp
+*.swo
